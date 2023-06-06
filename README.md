@@ -12,5 +12,5 @@ We have trained our dataset using different models including Convolutional Neura
 model, ResNet with Dropout and Resnet with Data Augmentation. After training, we analysed and
 compared the performance of our models using F-beta score and Cross Entropy Loss.
 
-The following repository contains both the Python NOtebook and Python files.
+The following repository contains both the Python Notebook and Python files.
 The Planet_data.npz file is a compressed mapping of the images with the labels. 
